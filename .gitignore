@@ -1,0 +1,9 @@
+.vscode
+build/
+out/
+*.ninja*
+*.cmake
+CMakeCache.txt
+CMakeFiles/
+elastic_deformation*
+# cached/
