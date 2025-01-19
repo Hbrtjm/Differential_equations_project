@@ -71,6 +71,6 @@ chmod +x ./scripts/run.sh
 - ✅ Napisać wyprowadzenie w języku polskim
 - ⬜ Napisać wyprowadzenie w języku angielskim
 - ✅ Napisać kod
-- ⬜ Napisać skrypty uruchamiające projekt
+- ✅ Napisać skrypty uruchamiające projekt
 - ⬜ Zwizualizować wyniki
 - ⬜ Rozwiązać inne równania (wymaga reorganizacji projektu)
